@@ -4,3 +4,5 @@
 *.jar
 *.war
 *.ear
+/GUIFormExamples1/nbproject/private/
+/GUIFormExamples1/build/
